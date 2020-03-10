@@ -19,12 +19,13 @@ public class ShellSort implements ISort {
 
     @Override
     public int[] justSort(int[] array) {
-        if (array==null || array.length==1){return array;}
-        int step = 4,size = array.length;
-        while (step > 0) {
-            for (int i=0;i<step;i++){
-
-            }
-        }
+//        if (array==null || array.length==1){return array;}
+//        int step = 4,size = array.length;
+//        while (step > 0) {
+//            for (int i=0;i<step;i++){
+//
+//            }
+//        }
+        return null;
     }
 }
